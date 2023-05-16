@@ -6,7 +6,7 @@ In this Project Espruino Pico microcontroller was used to log data from 3D Accel
 ## Requirements:
 
 * Bread Board with Auxiliary Connectors
-* Pico Controller
+* Espruino Pico Controller
 * ADXL345(Accelerometer Sensor)
 * TSL250(Ambient Light Sensor) module
 * SD Card Module
