@@ -17,6 +17,7 @@ In this Project Espruino Pico microcontroller was used to log data from 3D Accel
 
 ## Ripo Content:
 * Presentation
+* Code file
 * Output files
 
 
