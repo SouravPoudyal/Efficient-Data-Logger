@@ -13,6 +13,6 @@ In this Project Espruino Pico microcontroller was used to log data from 3D Accel
 * OLED SSD1306
 
 ## Connectivity Overview
-<img align="center" src="Asset/Picture1.png" width="350">
+<img align="center" src="Asset/Picture1.png" width="550">
 
 
